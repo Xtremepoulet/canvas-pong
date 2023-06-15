@@ -1,0 +1,23 @@
+body {
+    margin: 1vh;
+}
+
+
+
+#canvas {
+    border: thin solid black;
+}
+
+
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20vh;
+    list-style: none;
+
+    font-style: oblique;
+    font-family: fantasy;
+}
+
